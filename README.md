@@ -12,3 +12,7 @@ Motor - AxialAX24007 55T brushed motor
 chassis - free scale, Team X-Ray X12
 
 drive sytem -  differential drive, all wheel
+
+RC Controller - Fly Sky GT-3C
+
+NATCAR 2016 - <iframe width="560" height="315" src="https://www.youtube.com/embed/-OsGoKwygjk" frameborder="0" allowfullscreen></iframe>
