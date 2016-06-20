@@ -1,11 +1,11 @@
-#define RC_IN 7 
-#define mode 8
+#define RC_IN 7 // RC ontroller ch3
+#define mode 8  // To send RC mode status
 
-void setup() {
-  // put your setup code here, to run once:
-pinMode(RC_IN,INPUT);
-pinMode(mode, OUTPUT);
-Serial.begin(115200);
+void setup() 
+{
+  pinMode(RC_IN,INPUT);
+  pinMode(mode, OUTPUT);
+  Serial.begin(115200);
 }
 
 void loop() 
@@ -15,12 +15,12 @@ void loop()
   if (pulseIn(RC_IN,HIGH)<1000)
   {
     //Serial.println(pulseIn(RC_IN,HIGH));
-    digitalWrite(mode,LOW);
+    digitalWrite(mode,LOW); //RC Mode
   }
   else
   {
     //Serial.println("1");
-    digitalWrite(mode,HIGH);
+    digitalWrite(mode,HIGH); // Autonomous Mode
   }
     
 }
