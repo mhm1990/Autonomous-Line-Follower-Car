@@ -1,7 +1,7 @@
 # Autonomous-Line-Follower-Car
 Arduino code for Line  Follower 
 
-Development Boards- Teensy++2.0, Arduino Uno, Arduino nano ( for various versions of car)
+Development Boards- Teensy++2.0, Arduino Mega, Arduino Uno, Arduino nano ( for various versions of car)
 
 Camera Sensor - TSL1401DB(Parallax Line-scan Camera)
 
