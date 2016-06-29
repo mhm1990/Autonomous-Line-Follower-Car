@@ -17,4 +17,6 @@ RC Controller - Fly Sky GT-3C
 
 UC Davis NATCAR 2016 - https://youtu.be/-OsGoKwygjk
 
+NATCAR 2016 Results - http://www.ece.ucdavis.edu/natcar/results/2016-race-results/
+
 UC Davis NATCAR 2015 - https://youtu.be/Wop4ekCSkyA?list=PL96ZWbQJDpxU4nrn0EpFPEEsLkoheZb5a 
